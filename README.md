@@ -1,6 +1,6 @@
 Hi, my name is Darling and I’m into all things interesting.📚✨
 
-Oh and by the way, I LOVE USING PYTHON FOR DATA SCIENCE!
+Oh and by the way, I enjoy Python for Data Science!
 
 Join me on my Data Science journey as I understand the world through first principles. 
 Always working on a project so don’t hesitate to get in touch for collaborative works.
