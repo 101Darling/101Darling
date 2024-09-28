@@ -1,12 +1,10 @@
-Hi, my name is Darling and I’m into all things interesting.📚✨
-
-Oh and by the way, I enjoy Python for Data Science!
+Hi, my name is Darling and I’m into Health, Business Solutions, and Nature Conservation.📚✨
 
 Join me on my Data Science journey as I understand the world through first principles. 
-Always working on a project so don’t hesitate to get in touch for collaborative works.
+Always working on a project so don’t hesitate to get in touch for collaborative work.
 
 
-🔰I merely have but 2 goals on my journey:
+🔰I merely have 2 goals on my journey:
 1) To continuously find areas of improvement in the ways we understand and explore our world with data. 🧬💻
 2) Likewise implementing practical solutions to life’s problems, chaos and ambiguity through the practice of data science.📈
 
